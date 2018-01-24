@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="list_profile_txt">
+        <item>Thông tin cá nhân</item>
+        <item>Lịch sử giặt ủi</item>
+        <item>Đánh giá</item>
+        <item>Hỗ trợ</item>
+        <item>Đăng xuất</item>
+    </array>
+    <integer-array name="list_profile_img">
+        <item>@drawable/ic_perm_identity_white_24dp</item>
+        <item>@drawable/ic_history_black_24dp</item>
+        <item>@drawable/ic_feedback_white_24dp</item>
+        <item>@drawable/ic_help_outline_white_24dp</item>
+        <item>@drawable/ic_exit_to_app_white_24dp</item>
+    </integer-array>
+    <array name="list_profile_des">
+        <item>Chi tiết thông tin cá nhân của bạn</item>
+        <item>Chi tiết lịch sử giặt ủi của bạn</item>
+        <item>Chi tiết các lần đánh giá của bạn</item>
+        <item>Bạn cần giúp đỡ, liên hệ tại đây</item>
+        <item>Đăng xuất và thoát khỏi ứng dụng</item>
+    </array>
+</resources>
